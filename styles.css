@@ -1,4 +1,9 @@
 
+    body {
+        scrollbar-color: #000080;
+        scrollbar-width: auto;
+    }
+
     section[id="h.5114f81e0430ad84_29"] img.CENy8b {
         border-radius: 18px;
         transition:
